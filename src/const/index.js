@@ -1,0 +1,1 @@
+export const logo = 'https://brb.uz/_nuxt/img/qqb-logo.6d9808c.png'
